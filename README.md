@@ -65,4 +65,4 @@
 
 ---
 
-# [English - Privacy Policy](https://fadak0828.github.io/WavePrivacyPolicyEng/)
+# [English - Privacy Policy](https://fadak0828.github.io/WavePrivacyPolicy_English)
